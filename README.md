@@ -1,11 +1,35 @@
 # Asta-Optimizer
-A performance Magisk module that auto-detects and tunes CPU, memory, and I/O on boot.
+# ⚡ Universal Processor Performance Module
 
-Module Features
-•Automatic performance script, based on dumpsys
-•Reduces Jitter and Latency
-• Sets/verifies CPU governor to schedutil
-• Syncs CPU frequency policy min/max with hardware limits
-• Memory tuning — swappiness, cache pressure
-• Sets mq-deadline I/O scheduler on compatible devices
-• Safely skips unsupported values — no crashes
+A lightweight Android performance optimization module designed to improve
+CPU performance, responsiveness, and overall system smoothness across
+different processor platforms.
+
+## ✨ Features
+
+- 🚀 CPU performance optimizations
+- ⚡ Improved system responsiveness
+- 🎮 Better gaming performance
+- 🔋 Balanced performance and efficiency
+- 📱 Designed for multiple processor architectures
+- 🛠️ Lightweight and easy to use
+- 🔄 Automatic optimization based on the device
+
+## 🎯 Compatibility
+
+Designed to work across a wide range of Android devices and processor
+architectures.
+
+## 📦 Installation
+
+1. Download the latest release.
+2. Flash/install the module using a compatible root module manager.
+3. Reboot your device.
+4. Enjoy optimized performance.
+
+## ⚠️ Disclaimer
+
+This module modifies system performance settings.
+Results may vary depending on the device, kernel, ROM, and processor.
+
+Use at your own risk.
